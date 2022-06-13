@@ -1,5 +1,5 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto Sobre Git/Github
+# Desafio de projeto sobre git/github da dio
+Repositório criado para o desafio de projeto
 
 ##a?
 
